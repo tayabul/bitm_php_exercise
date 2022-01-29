@@ -1,8 +1,8 @@
 <?php
 
     $value = [];
-    $value [0][1] = "01 Arif  ";
-    $value [0][2] = "02 Saidul ";
+    $value [0][1] = "01 Arif.  ";
+    $value [0][2] = "02 Saidul. ";
     $value [0][3] = "03 Towhid ";
     $value [0][4] = "04 Nahid ";
 

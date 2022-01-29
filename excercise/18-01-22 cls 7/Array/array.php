@@ -27,14 +27,14 @@
     $data['value']='Dhaka';
     $data['input']=200;
 
-    // foreach($data as $value){
-    //     echo $value.'<br/>';
-    // }
+    foreach($data as $value){
+        echo $value.'<br/>';
+    }
 
-    echo '<pre>';
+    // echo '<pre>';
     // print_r($data);
 
-    var_dump($data);
+    // var_dump($data);
 
 ?>
 
