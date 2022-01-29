@@ -8,6 +8,7 @@
     $name2= $_POST['last_name'];
     $full_name = $name1.' '.$name2;
 
+    echo '<br/>';
     
 ?>
 
